@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bpraneesh05@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1VIfRvXd8uCkBLigW40fHOw4C5alNHRYR/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/10ABY-V5CdH9zeKLcfCkAPbDJOoQ-l9XQ/view?usp=sharing)
 
 - ⚡ Fun fact **I am a sarcastic & systematic developer aiming for self-development**
 
