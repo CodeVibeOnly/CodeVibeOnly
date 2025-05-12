@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!! This is Praneesh contributing in GitHub</h1>
 <h3 align="center">A passionate and aspiring Software Developer</h3>
 
-- I’m currently interested on **Cloud Software, Data Structure and Algorithm**
+- I’m currently interested on **Cloud Software, Data Structure and Algorithm, Machine Learning and its applications**
 
 - Exploring **System Design concepts and Data Base Management System**
 
